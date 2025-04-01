@@ -104,9 +104,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(272, 13);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(107, 16);
+            this.label4.Size = new System.Drawing.Size(113, 16);
             this.label4.TabIndex = 7;
-            this.label4.Text = "bổ sung thông tin";
+            this.label4.Text = "Thông tin bổ sung";
             // 
             // AddContactForm
             // 
